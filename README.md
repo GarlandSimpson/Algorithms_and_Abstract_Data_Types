@@ -1,10 +1,11 @@
 # Algorithms_and_Abstract_Data_Types
 Lab Submissions from Algorithms and Abstract Data Types course @ UCSC
 <ul>
-<p>
+  <li> This folder comtains implementations of Graph, DDL
+    	 and Matrix ADTs in C and Java.</li>
+  
 /***********************************************************
-***		 This folder comtains implementations of Graph, DDL
-***		 and Matrix ADTs in C and Java.
+***		 
 ***
 ***		-Be mindful of java implementations. Matrix class 
 ***		 runs a little slow. List class could use a good 
